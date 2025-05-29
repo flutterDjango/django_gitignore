@@ -85,3 +85,6 @@ pgdata/
 
 # Scripts SQL ou fichiers temporaires
 *.sql
+
+# tests
+pytest.ini
