@@ -38,6 +38,7 @@ staticfiles/
 .pytest_cache/
 htmlcov/
 .tox/
+pytest.ini
 
 # Temporaires et sauvegardes
 *.bak
@@ -85,6 +86,3 @@ pgdata/
 
 # Scripts SQL ou fichiers temporaires
 *.sql
-
-# tests
-pytest.ini
