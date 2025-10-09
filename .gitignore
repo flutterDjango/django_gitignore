@@ -46,6 +46,9 @@ pytest.ini
 *.swp
 .DS_Store
 
+# Fichiers compressés
+*.tar
+
 # Outils spécifiques
 .mypy_cache/
 .dmypy.json
