@@ -89,3 +89,11 @@ pgdata/
 
 # Scripts SQL ou fichiers temporaires
 *.sql
+
+# Ignorer toutes les images par défaut
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
