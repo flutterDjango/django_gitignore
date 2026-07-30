@@ -19,9 +19,7 @@ env/
 venv/
 ENV/
 
-# Ignore les diagramme
-uml/
-UML/
+
 
 
 # Logs
