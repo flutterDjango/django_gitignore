@@ -20,7 +20,9 @@ venv/
 ENV/
 
 
-
+# backup BDD
+/backups/
+/backup/logs/
 
 # Logs
 *.log
