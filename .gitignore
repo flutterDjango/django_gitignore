@@ -28,8 +28,10 @@ ENV/
 *.log
 
 # Médias et statiques
-media/
-staticfiles/
+/media/
+/staticfiles/
+
+/node_modules/
 
 # Migrations (optionnel)
 */migrations/*
@@ -93,11 +95,3 @@ pgdata/
 
 # Scripts SQL ou fichiers temporaires
 *.sql
-
-# Ignorer toutes les images par défaut
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-*.svg
