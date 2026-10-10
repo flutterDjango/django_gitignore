@@ -33,10 +33,6 @@ ENV/
 
 /node_modules/
 
-# Migrations (optionnel)
-*/migrations/*
-!*/migrations/__init__.py
-
 # Tests et couverture
 .coverage
 .coverage.*
